@@ -1,1 +1,1 @@
-# node-red-contrib-diwdi-celsius-convert
+# node-red-contrib-diwdi-celsius-converter
